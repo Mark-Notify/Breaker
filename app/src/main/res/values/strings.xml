@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ทำลายอิฐ</string>
+    <string name="title_activity_main">ทำลายอิฐ</string>
+    <string name="high_score">"คะแนนสูงสุด : "</string>
+    <string name="new_game">เริ่มใหม่</string>
+    <string name="reset_high_score">ลบคะแนนสูงสุด</string>
+    <string name="score">"คะแนน : "</string>
+    <string name="multiplier">"ผู้เล่นหลายคน: "</string>
+    <string name="lives">"เลเวล: "</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="game_over">จบเกม!</string>
+    <string name="new_high_score">"คะแนนใหม่สูงสุด: "</string>
+    <string name="do_you_want_to_restart_the_game">คุณต้องการเริ่มเกมใหม่หรือไม่?</string>
+    <string name="final_score">"คะแนนล่าสุด: "</string>
+    <string name="difficult">"ความยาก :"</string>
+    <string name="explosive_brick_explanation">อิฐระเบิด (ทำลายอิฐทั้งหมดรอบ ๆ )</string>
+    <string name="moveable_brick_explanation">อิฐที่เคลื่อนย้ายได้ (เคลื่อนย้ายจากด้านหนึ่งไปอีกด้านหนึ่ง)</string>
+    <string name="hard_brick_explanation">อิฐแข็ง (ต้องยิง 2 ครั้งเพื่อทำลายมัน)</string>
+    <string name="special_bricks">อิฐพิเศษ :</string>
+    <string name="ready">เตรียมพร้อม?</string>
+    <string name="psss_just_between_you_and_me">Psss&#8230; Just between you and me</string>
+    <string name="do_you_want_to_get_the_maximum_score_for_free">คุณต้องการได้คะแนนสูงสุดฟรีหรือไม่?</string>
+    <string name="do_you_want_to_reset_the_high_score_to_zero">คุณต้องการรีเซ็ตคะแนนสูงเป็นศูนย์หรือไม่?</string>
+    <string name="enable_sound_effects">เปิดใช้งานเอฟเฟกต์เสียง</string>
+
+</resources>
